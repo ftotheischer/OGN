@@ -5,7 +5,9 @@ DD9F53,D-4309,AECLS6,undefined
 DDA2A2,D-8321,AECASK21,undefined
 DD9429,D-4784,AECAstir,undefined
 DD9F04,D-5339,AECK8,undefined
-
+x54164
+git config --global user.email "mfischer89@me.com"
+git config --global user.name "ftotheischer"
 DDA42E,D-3587,DJKASW24,undefined
 F05F5,D-9566,DJKDUO,undefined
 DDA37E,D-5039,DJKDG300,undefined
